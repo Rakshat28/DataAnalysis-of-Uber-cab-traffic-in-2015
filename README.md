@@ -2,7 +2,6 @@
 
 Data Set Link : https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city?select=uber-raw-data-janjune-15.csv
 
-Project Link : file:///C:/Users/hp/Desktop/Uber-2015%20Data%20Analysis.html
 
 This file has the following columns:
 
